@@ -16,7 +16,7 @@ body {
     
     overflow-x: hidden;
     font-family: 'ToBeLord', sans-serif;
-    background: url("../img/bg.jpeg") 0% 0% / cover no-repeat;
+    background: url("../img/background.png") 0% 0% / cover no-repeat;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
@@ -339,14 +339,14 @@ header .logo img {
     font-weight: 600;
     font-size: 16px;
     line-height: 32px;
-    color: #000;
+    color: #0f1724;
     padding: 0px 75px;
     height: 50px;
     cursor: pointer;
     transition-duration: 0.3s;
     letter-spacing: 0.5px;
     justify-content: center !important;
-    background: #ffcc00;
+    background: #37ffcb;
     margin-top: 20px;
     margin-bottom: 10px;
     transition: 0.5s;
